@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420002589948",
+    "firebase_url": "https://meuscontatos-303313-default-rtdb.firebaseio.com",
+    "project_id": "meuscontatos-303313",
+    "storage_bucket": "meuscontatos-303313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420002589948:android:0cc13ff6be40eccaa2bb79",
+        "android_client_info": {
+          "package_name": "com.example.meusContatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420002589948-jhakjknj5852t0e43e7bof6quuniq9lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZRjZth3Af4VE4gOUEnWxqj2HvjuTz9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420002589948-jhakjknj5852t0e43e7bof6quuniq9lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
